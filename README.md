@@ -11,7 +11,7 @@ Detecting and removing black borders from screenshot images is a computer vision
 Please use python version 3.8.10 or above
 
 ```bash
-git clone https://github.com/hafidh561/background-removal.git
+git clone https://github.com/hafidh561/detect-and-remove-black-border-from-screenshots-images.git
 pip3 install -r requirements.txt
 ```
 
