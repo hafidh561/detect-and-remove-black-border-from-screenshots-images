@@ -1,4 +1,4 @@
-# Background Removal
+# Detect and Remove Black Border from Screenshots Images
 
 ![example](./blob/example.png "example")
 
